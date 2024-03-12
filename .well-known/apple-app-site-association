@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "725P3V33F2.com.example.pointeat",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
